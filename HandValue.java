@@ -1,4 +1,13 @@
 
+/**
+ * This is the project to check the hand value for Cribbage game. There will be
+ * five input which stand for the five cards. The first four card is the hand
+ * cards, and the last card is the start card. The aim of this project is
+ * check specific combination to define the value of these five cards.
+ * 
+ * @author BO ZHANG
+ */
+
 public class HandValue {
 	// Create a int to calculate the total score, start with 0.
 	private static int point = 0;
